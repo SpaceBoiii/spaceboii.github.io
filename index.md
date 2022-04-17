@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my SpaceBoii Page!
 
-You can use the [editor on GitHub](https://github.com/SpaceBoiii/spaceboii.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use my github repo for your own website, just fork it! LINK: [The Repo](https://github.com/SpaceBoiii/spaceboii.github.io)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The site is a work in progress, so a lot of the stuff on here is still from the templete I used!
 
 ### Markdown
 
